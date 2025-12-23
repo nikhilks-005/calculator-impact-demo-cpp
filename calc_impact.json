@@ -1,0 +1,13 @@
+{
+  "analyzed_files": [
+    "operations/Add.cpp"
+  ],
+  "impacts": [],
+  "changes_and_impacts": [],
+  "summary": {
+    "files_analyzed": 1,
+    "total_impacts": 0,
+    "total_changes": 0,
+    "total_breaks": 0
+  }
+}
