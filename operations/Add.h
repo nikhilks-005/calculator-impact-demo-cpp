@@ -3,7 +3,7 @@
 
 class Add {
 public:
-    double execute(double a, double b, int precision);
+    double execute(double a, double b);
 };
 
 #endif
