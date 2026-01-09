@@ -2,15 +2,13 @@
 using namespace std;
 
 void hi() {
-    int value = 10;
-    for (int i = 0; i < value; i++) {
+    for (int i = 0; i < 10; i++) {
         cout << "hi: i = " << i << endl;
     }
 }
 
 void hello() {
-    int value = 10;
-    for (int i = 0; i < value; i++) {
+    for (int i = 0; i < 10; i++) {
         cout << "hello: i = " << i << endl;
     }
 }
