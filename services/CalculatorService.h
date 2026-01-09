@@ -3,7 +3,7 @@
 
 class CalculatorService {
 public:
-    double calculate(const char* operation, double a, double b);
+    double calculate(const char* operation, double a, double b, double c);
 };
 
 #endif
